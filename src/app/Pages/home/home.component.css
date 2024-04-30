@@ -1,0 +1,25 @@
+.mat-card {
+  max-width: 80%;
+  margin: 2rem auto;
+}
+
+.mat-card-title {
+  text-align: center;
+  color: #1976d2;
+}
+
+.mat-header-cell {
+  background-color: #1976d2;
+  color: white;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.mat-cell {
+  text-align: center;
+  font-size: 1em;
+}
+
+.mat-table {
+  margin-top: 20px;
+}
